@@ -15,10 +15,10 @@ visualize HR data in a clean and user-friendly way.
 ## 📷 Dashboard Preview
 
 ### 🏠 Main Dashboard
-![Main Dashboard](screenshots/)
+![Main Dashboard](screenshots/dashboard-overview.png)
 
 ### 👤 Employee Details Page
-![Emp Details](screenshots/.png)
+![Emp Details](screenshots/employee-analysis-dashboard.png)
 
 ## 🎯 Key Highlights / What I Achieved
 - 🖱️ Built a fully interactive dashboard with dynamic filtering
